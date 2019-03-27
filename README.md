@@ -71,3 +71,6 @@ Keytool 是一个JAVA环境下的安全钥匙与证书的管理工具，Keytool�
 [关于证书认证技术的相关概念理解](https://www.cnblogs.com/sdjnzqr/p/4277092.html)
 
 [Java Keytool（KeyStore） 以及公钥私钥的一些概念](http://ju.outofmemory.cn/entry/224421)
+
+[Java使用RSA加密解密签名及校验](https://blog.csdn.net/wangqiuyun/article/details/42143957)
+
